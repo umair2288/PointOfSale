@@ -1,0 +1,2 @@
+Admin,Admin,True,0777123456,admin@pos.com,admin,123
+Umair,Ramzan,False,0777123456,adfsadsd,Umair,123
